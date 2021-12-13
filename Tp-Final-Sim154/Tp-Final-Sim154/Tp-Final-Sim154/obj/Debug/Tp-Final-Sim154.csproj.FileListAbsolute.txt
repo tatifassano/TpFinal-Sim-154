@@ -1,0 +1,11 @@
+C:\Users\tati_\Desktop\Tp-Final-Sim154\Tp-Final-Sim154\Tp-Final-Sim154\bin\Debug\Tp-Final-Sim154.exe.config
+C:\Users\tati_\Desktop\Tp-Final-Sim154\Tp-Final-Sim154\Tp-Final-Sim154\bin\Debug\Tp-Final-Sim154.exe
+C:\Users\tati_\Desktop\Tp-Final-Sim154\Tp-Final-Sim154\Tp-Final-Sim154\bin\Debug\Tp-Final-Sim154.pdb
+C:\Users\tati_\Desktop\Tp-Final-Sim154\Tp-Final-Sim154\Tp-Final-Sim154\obj\Debug\Tp-Final-Sim154.csprojAssemblyReference.cache
+C:\Users\tati_\Desktop\Tp-Final-Sim154\Tp-Final-Sim154\Tp-Final-Sim154\obj\Debug\Tp_Final_Sim154.Presentacion.resources
+C:\Users\tati_\Desktop\Tp-Final-Sim154\Tp-Final-Sim154\Tp-Final-Sim154\obj\Debug\Tp_Final_Sim154.Properties.Resources.resources
+C:\Users\tati_\Desktop\Tp-Final-Sim154\Tp-Final-Sim154\Tp-Final-Sim154\obj\Debug\Tp-Final-Sim154.csproj.GenerateResource.cache
+C:\Users\tati_\Desktop\Tp-Final-Sim154\Tp-Final-Sim154\Tp-Final-Sim154\obj\Debug\Tp-Final-Sim154.csproj.CoreCompileInputs.cache
+C:\Users\tati_\Desktop\Tp-Final-Sim154\Tp-Final-Sim154\Tp-Final-Sim154\obj\Debug\Tp-Final-Sim154.exe
+C:\Users\tati_\Desktop\Tp-Final-Sim154\Tp-Final-Sim154\Tp-Final-Sim154\obj\Debug\Tp-Final-Sim154.pdb
+C:\Users\tati_\Desktop\Tp-Final-Sim154\Tp-Final-Sim154\Tp-Final-Sim154\obj\Debug\Tp_Final_Sim154.RungeKutta.resources
